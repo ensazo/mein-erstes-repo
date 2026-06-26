@@ -4,3 +4,4 @@ Linux Grundlagen: ls, cd , grep, chmod
 Cloud: AZURE, GCP, STACKIT
 diese Zeile ist von Visualstudio Code geschrieben
 Hier jetzt auch zeile vom Temrinal
+Visual Studio ist auch sehr cool und schön
