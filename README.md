@@ -7,3 +7,4 @@ Hier jetzt auch zeile vom Temrinal
 Visual Studio ist auch sehr cool und schönStackit: Private Cloud der Schwarz Gruppe
 Visual Studio ist auch sehr cool und schönkubernetes: Pod, Node, Cluster
 Kubctl get pods, Kubectl apply
+Bugfix: kritscher Fehler behoben
