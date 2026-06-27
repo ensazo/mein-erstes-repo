@@ -8,3 +8,5 @@ Visual Studio ist auch sehr cool und schönStackit: Private Cloud der Schwarz Gr
 Visual Studio ist auch sehr cool und schönkubernetes: Pod, Node, Cluster
 Kubctl get pods, Kubectl apply
 Bugfix: kritscher Fehler behoben
+Azure: Virtual Machnies, AKS, Blob Storage
+
