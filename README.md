@@ -4,4 +4,4 @@ Linux Grundlagen: ls, cd , grep, chmod
 Cloud: AZURE, GCP, STACKIT
 diese Zeile ist von Visualstudio Code geschrieben
 Hier jetzt auch zeile vom Temrinal
-Visual Studio ist auch sehr cool und schön
+Visual Studio ist auch sehr cool und schönStackit: Private Cloud der Schwarz Gruppe
