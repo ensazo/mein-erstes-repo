@@ -10,3 +10,4 @@ Kubctl get pods, Kubectl apply
 Bugfix: kritscher Fehler behoben
 Azure: Virtual Machnies, AKS, Blob Storage
 
+Fehler: Diese Zeile war ein Versehen
