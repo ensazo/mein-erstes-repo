@@ -9,4 +9,4 @@ Visual Studio ist auch sehr cool und schönkubernetes: Pod, Node, Cluster
 Kubctl get pods, Kubectl apply
 Bugfix: kritscher Fehler behoben
 Azure: Virtual Machnies, AKS, Blob Storage
-
+Bearbeitet direkt auf GitHub
